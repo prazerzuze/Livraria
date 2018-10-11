@@ -37,20 +37,26 @@
         <ul class="nav">
           <li>
             <a href="./../genero/GeneroWS?acao=list">
-              <i class="tim-icons icon-tag"></i>
+              <i class="tim-icons icon-planet"></i>
               <p>Genero</p>
             </a>
           </li>
           <li>
             <a href="./../autor/AutorWS?acao=list">
-              <i class="tim-icons icon-tag"></i>
+              <i class="tim-icons icon-single-02"></i>
               <p>Autor</p>
             </a>
           </li>
           <li>
             <a href="./../editora/EditoraWS?acao=list">
-              <i class="tim-icons icon-tag"></i>
+              <i class="tim-icons icon-app"></i>
               <p>Editora</p>
+            </a>
+          </li>
+          <li>
+            <a href="./../classificacao/ClassificacaoWS?acao=list">
+              <i class="tim-icons icon-satisfied"></i>
+              <p>Classificação</p>
             </a>
           </li>
         </ul>
