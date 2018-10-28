@@ -79,6 +79,10 @@ public class Editora implements Serializable {
         this.id = id;
     }
 
+    public void setEditora(String parameter) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     
 
     

@@ -59,6 +59,12 @@
               <p>Classificação</p>
             </a>
           </li>
+          <li>
+            <a href="./../admiin/AdminWS?acao=list">
+              <i class="tim-icons icon-app"></i>
+              <p>Administrador</p>
+            </a>
+          </li>
         </ul>
       </div>
     </div>

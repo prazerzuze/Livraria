@@ -5,18 +5,17 @@
  */
 package dao;
 
-import modelo.Autor;
+import modelo.Livro;
 
 
 /**
  *
  * @author dappo
  */
-public class AutorDAO extends GenericDAO<Autor, Long>{
+public class LivroDAO extends GenericDAO<Livro, Long>{
     
-    public AutorDAO(){
-        super(Autor.class);
+    public LivroDAO(){
+        super(Livro.class);
     }
-
     
 }

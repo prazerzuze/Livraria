@@ -17,7 +17,7 @@
                     <div class="col-md-5 pr-md-1">
                       <div class="form-group">
                         <label>Classificacao</label>
-                        <input type="text" class="form-control" name="txtClassificacao" placeholder="Classificacao" value="${obj.genero}">
+                        <input type="text" class="form-control" name="txtClassificacao" placeholder="Classificacao" value="${obj.classificacao}">
                       </div>
                     </div>
                   </div>
